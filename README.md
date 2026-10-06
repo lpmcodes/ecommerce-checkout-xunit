@@ -43,3 +43,9 @@ git clone https://github.com/SEU-USUARIO/ecommerce-checkout-xunit.git
 cd ecommerce-checkout-xunit
 dotnet test
 ```
+
+Alunos:
+Lucas Paiva Magalhães - RA: 4251925101
+Luca Fernandes - RA: 4251924436
+Guilherme de Oliveira Navais – RA: 4251923674
+Anthony Rafael Braga Magalhães – RA: 4251924039
